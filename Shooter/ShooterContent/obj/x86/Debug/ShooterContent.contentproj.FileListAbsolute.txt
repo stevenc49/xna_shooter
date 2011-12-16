@@ -1,0 +1,3 @@
+C:\dev\workspace\xna-2d-tutorial\Shooter\ShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\workspace\xna-2d-tutorial\part1\Shooter\ShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\scheong.PACIFICGEOTECH\Desktop\misc\myShooter\Shooter\ShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
